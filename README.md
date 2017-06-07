@@ -1,13 +1,11 @@
-# hello-world
-
-<b style="display:block;font-size:24px;font-weight:bold;color:#cff">ccc</b>
+<style>
+span a{display:inline-block;width:150px;text-align:center;font-size:16px;color:#f00;background:#f5f5f5;border:1px solid #eee;border-radius:5px 5px 0 0;}
+span{text-align:center}
+b{font-size:30px;font-weight:bold;line-height:50px;display:block}
+</style>
+<b>ccc</b>
 <span>
-    <a title="火力发电" href="http://huodian.bjx.com.cn/">火力发电</a>
-    <a title="风力发电" class="bjx_red" href="http://fd.bjx.com.cn/">风力发电</a>
-    <a title="光伏太阳能" class="bjx_red" href="http://guangfu.bjx.com.cn/">光伏太阳能</a>
-    <a title="核电" href="http://hedian.bjx.com.cn/">核 电</a>
-    <a title="水力发电" href="http://shuidian.bjx.com.cn/">水力发电</a>
-    <a title="电力建设" href="http://dianjian.bjx.com.cn/">电力建设</a>
-    <a title="储能" href="http://chuneng.bjx.com.cn/">储 能</a>
-    <a title="电力软件" href="http://xinxihua.bjx.com.cn/">电力软件</a>
+    <a href="">报名人数</a>
+    <a href="">赞助人员</a>
+    <a href="">参会人员</a>
 </span>
