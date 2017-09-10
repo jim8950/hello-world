@@ -1,5 +1,5 @@
 
-<head>
+
 
 <style>
 body,ul,li,dl,dt,dd{ margin:0; padding:0; font-family:Microsoft Yahei; font-size:18px;  list-style:none}
@@ -11,9 +11,9 @@ dt{ display:none}
 dd p{ border:1px solid #eee; box-shadow:2px 2px 5px #ccc; padding:15px; width:300px; height:400px; float:left; margin:20px; float:left; border-top:5px solid #F90; font-size:14px; line-height:24px}
 dd p:hover{ box-shadow:2px 2px 8px #09c; border-top:5px solid #F00}
 </style>
-</head>
 
-<body>
+
+
 <div>
 <ul>
 	<li>专题设计</li>
@@ -34,5 +34,5 @@ dd p:hover{ box-shadow:2px 2px 8px #09c; border-top:5px solid #F00}
     </dd>
 </dl>
 </div>
-</body>
-</html>
+
+
