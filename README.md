@@ -1,8 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>我的作品</title>
+
 <style>
 body,ul,li,dl,dt,dd{ margin:0; padding:0; font-family:Microsoft Yahei; font-size:18px;  list-style:none}
 ul{ border-bottom:2px solid #09C; zoom:1;line-height:35px;}
