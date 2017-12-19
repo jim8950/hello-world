@@ -3,6 +3,7 @@
 
 <style>
 body,ul,li,dl,dt,dd{ margin:0; padding:0; font-family:Microsoft Yahei; font-size:18px;  list-style:none}
+.markdown-body{display:none}
 ul{ border-bottom:2px solid #09C; zoom:1;line-height:35px;}
 ul:after{ content:"."; clear:both; height:0; overflow:hidden; color:#fff}
 ul li{ float:left; padding:0 15px; border-right:1px solid #eee; cursor:pointer; }
